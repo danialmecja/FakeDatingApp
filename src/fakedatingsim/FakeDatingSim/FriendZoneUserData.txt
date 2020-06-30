@@ -1,0 +1,240 @@
+Mike
+MonsterInc12
+Michael
+Wazowski
+20
+Male
+Literature,Hockey,Reading,Plants,Movies
+Kerinchi
+Adam
+aaaAAqw12
+Adam
+Scatman
+45
+Male
+Reading,Basketball,Literature,Plants,Digital Arts
+Kolej Kediaman Ketujuh
+xric
+ABC123qwe
+Eric
+Mon
+34
+Male
+Digital Arts,Environment,Anime,Reading,Volleyball
+Sungai Besi
+cisco
+Cisco123
+Cisco
+Netman
+25
+Male
+Basketball,Reading,Travelling,K-Pop,Digital Arts
+Bangsar
+nicolematt
+Nicola123
+Nicole
+Matthews
+24
+Female
+Literature,Poetry,Pets,Reading,Music
+Bukit Damansara
+megtransform
+Megan123
+Megan
+Fox
+25
+Female
+Tennis,Cycling,Movies,Environment,Painting
+Bandar Sunway
+juliaandre
+Julia123
+Julia
+Andrews
+22
+Female
+Digital Arts,Volleyball,Farm,Movies,Photography
+Damansara Utama
+ericfkandre
+EricAndre123
+Eric
+Andre
+30
+Male
+Movies,Music,Travelling,Basketball,Poetry
+Bukit Bintang
+kryshaisa
+Krysha123
+Krysha
+Isabella
+20
+Female
+Pets,Volleyball,Sculpture,Photography,Music
+Petaling Jaya
+thebatman
+Batman123
+Christian
+Bale
+26
+Male
+Sculpture,Reading,Soccer,Movies,Cycling
+Kota Damansara
+thepittboy
+Fightclub123
+Brad
+Pitt
+29
+Male
+Movies,Music,Landscape,Environment,Basketball
+Subang
+seaanman
+Seaan123
+Seaan
+Manuel
+21
+Male
+Literature,Poetry,Soccer,Music,Movies
+Pantai Dalam
+hackerman
+Rosh12345
+Roshen
+Maghendran
+22
+Male
+Literature,Reading,Gaming,Travelling,Movies
+Petaling Jaya
+olivia21
+Olivia123
+Olivia
+Wilde
+27
+Female
+Poetry,Literature,Volleyball,Movies,Music
+Bangsar
+danialmecja
+Danial123
+Danial
+Mecja
+23
+Male
+Literature,Poetry,Movies,Music,Soccer
+Bangsar
+maykeat
+Diane123
+Diane
+Keaton
+32
+Female
+Movies,Television,Reading,Literature,Painting
+Bandar Kinrara
+somsjaggi
+Soms12345
+Soamesh
+Jaggi
+21
+Male
+Soccer,Hockey,Music,Environment,Photography
+Bandar Kinrara
+robdeniro
+Bob12345
+Robert
+DeNiro
+35
+Male
+Literature,Poetry,Landscape,Movies,Gaming
+Kota Damansara
+alpaci
+Pacino123
+Al
+Pacino
+39
+Male
+Sculpture,Tennis,Plants,Movies,Travelling
+Petaling Jaya
+velavenger
+Velavan123
+Jayshren
+Velavan
+24
+Male
+Digital Arts,Painting,Soccer,Movies,Anime
+Petaling Jaya
+tengkuari
+Ari12345
+Tengku
+Ariputra
+24
+Male
+Literature,Reading,Travelling,Gaming,Music
+Pantai Dalam
+hannahyellow
+Hannah123
+Hannah
+Yellow
+24
+Female
+Literature,Reading,Music,Volleyball,Gaming
+Bukit Damansara
+scottypill
+Scott123
+Scott
+Pilgrim
+23
+Male
+Poetry,Television,Music,Anime,Gaming
+Midvalley
+kniveschau
+Knives123
+Knives
+Chau
+25
+Female
+Poetry,Anime,Music,Reading,Basketball
+Pantai Dalam
+joeypesci
+Joe12345
+Joe
+Pesci
+25
+Male
+Literature,Tennis,Plants,Reading,Movies
+Subang Jaya
+olgakurly
+Olga12345
+Olga
+Kurylenko
+26
+Female
+Literature,Reading,Landscape,Movies,Travelling
+Bukit Bintang
+esthereng
+Esther123
+Esther
+Ng
+25
+Female
+Gaming,Travelling,Photography,Anime,Music
+Damansara Utama
+sidvid
+Sid12345
+Siddharta
+Adaikalaraj
+21
+Male
+Literature,Movies,Music,Anime,Gaming
+Petaling Jaya
+di3tary
+Divya123
+Divya
+Taery
+22
+Female
+Literature,Reading,Movies,Music,Pets
+Bangsar
+carriefish
+Carrie123
+Carrie
+Fisher
+27
+Female
+Sculpture,Volleyball,Plants,Movies,Reading
+Cheras

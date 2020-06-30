@@ -1,0 +1,45 @@
+Ampang Jaya,12300!2200
+Bandar Kinrara,-300!-8600
+Bandar Tun Razak,-7900!-4000
+Bandar Sunway,-5200!-6550
+Bangsar,2200!100
+Brickfields,40000!0
+Bukit Bintang,6800!1900
+Bukit Damansara,400!2300
+Cheras,8300!2400
+Damansara Utama,-2900!900
+Dataran Merdeka,4800!2200
+Kerinchi,1600!-1600
+KL Gateway Mall,1450!-1500
+KLCC,6800!3100
+Kota Damansara,-7000!3700
+Midvalley,3050!-1200
+Pantai Dalam,1300!-1900
+Pavilion,7000!2200
+Petaling Jaya,-6200!0
+Putrajaya,4600!-22400
+Sri Petaling,3900!6600
+Subang,-12000!900
+Subang Jaya,-7400!-7800
+Sungai Besi,7450!7850
+Sunway Lagoon,-5000!-6100
+Kolej Kediaman Pertama,1000!-1200
+Kolej Kediaman Kedua,800!-1200
+Kolej Kediaman Ketiga,30!-500
+Kolej Kediaman Keempat,-100!750
+Kolej Kediaman Kelima,2700!-400
+Kolej Kediaman Keenam,1600!-2800
+Kolej Kediaman Ketujuh,30!-230
+Kolej Kediaman Kelapan,-300!450
+Kolej Kediaman Kesembilan,-1200!-1800
+Kolej Kediaman Kesepuluh,100!450
+Kolej Kediaman Kesebelas,2900!300
+Kolej Kediaman Kedua Belas,3000!-800
+Tasik Varsiti,2600!-1600
+UM Main Library,1400!-1700
+Dewan Tunku Canselor,1900!-1400
+Dewan Peperiksaan,1900!-2700
+UM Central,1200!-1500
+Klinik Kesihatan Pelajar,1000!-1400
+PPUM,1000!-3200
+FSKTM,0!0
